@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 w-full bg-gray-950/80 backdrop-blur-sm border-b border-gray-800 z-50">
       <div className="max-w-5xl mx-auto px-6 py-4 flex justify-between items-center">
-        <span className="font-bold text-blue-400 text-lg">Muhammad Taufiq</span>
+        <span className="font-bold text-blue-400 text-lg">yq_Labs</span>
         <div className="flex gap-6 text-sm text-gray-400">
           <a href="#about" className="hover:text-white transition">
             About
